@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Mandali&display=swap');
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Mandali';
+    text-shadow: 8px 0 navajowhite;
+}
+
+.a{
+    background-image: url("Images/drume.png");
+}
+.s{
+    background-image: url("Images/flute.png");
+}
+.d{
+    background-image: url("Images/guiter.png");
+}
+.f{
+    background-image: url("Images/x.png");
+}
+.g{
+    background-image: url("Images/i.png");
+}
+.h{
+    background-image: url("Images/m.png");
+}
+.j{
+    background-image: url("Images/c.png");
+    
+}
+.all{
+    margin: 10px auto;
+}
+
+.animation {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+}
+.button{
+    border: 5px solid whitesmoke;
+    line-height: 2;
+    font-size: 0; 
+    border-radius: 15px;
+    display: inline-block;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    margin: 10px;
+    background-repeat: no-repeat;
+    
+}
